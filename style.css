@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: lightcyan;
+}
+canvas{
+    border: darkviolet 5px ridge;
+    border-radius: 20px;
+}
